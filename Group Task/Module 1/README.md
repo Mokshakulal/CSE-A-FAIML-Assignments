@@ -1,3 +1,5 @@
+# Analyzing the contribution of Alan Turing to AI.
+
 ## 1. Introduction
 
 Alan Turing is universally acknowledged as one of the principal architects of theoretical computer science and artificial intelligence. His intellectual contributions transcended mathematics and extended into logic, philosophy of mind, cryptography, and early computational engineering. Turing did not merely propose isolated ideas; he constructed a rigorous formal framework that defined what computation is, what machines can theoretically achieve, and where their limitations lie.
@@ -152,8 +154,8 @@ Turing’s work remains central to discussions on:
 
 The Church–Turing Thesis continues to inform debates about whether human cognition itself is computationally reducible. His framework underlies contemporary inquiries into whether intelligence is substrate-independent.
 
-## 12. Comparative Analysis: Alan Turing vs. John McCarthy in AI
-### 12.1 Background Overview
+## 11. Comparative Analysis: Alan Turing vs. John McCarthy in AI
+### 11.1 Background Overview
 #### Alan Turing
 - Formalized computation
 - Proposed the Turing Machine
@@ -165,11 +167,11 @@ The Church–Turing Thesis continues to inform debates about whether human cogni
 - Developed the LISP programming language
   Advanced symbolic reasoning systems
 
-### 12.2 Comparison of Contributions
+### 11.2 Comparison of Contributions
 
 ![WhatsApp Image 2026-02-18 at 10 44 04 AM](https://github.com/user-attachments/assets/ff4ed011-bfa2-4a0c-9042-6ccafe8c8569)
 
-### 12.3 Philosophical vs. Engineering Approach
+### 11.3 Philosophical vs. Engineering Approach
 
 Turing approached AI through philosophical inquiry and mathematical abstraction. He asked whether machines can think and reformulated the problem behaviorally.
 
@@ -177,7 +179,7 @@ McCarthy approached AI as an engineering discipline, emphasizing formal logic, s
 
 Turing defined the computational possibility space; McCarthy constructed research methodologies within it.
 
-### 12.4 Impact on Modern AI
+### 11.4 Impact on Modern AI
 #### Influence of Turing:
 - Computational models
 - AI evaluation paradigms
@@ -189,7 +191,7 @@ Turing defined the computational possibility space; McCarthy constructed researc
 - AI programming environments
 - Institutional AI research
 
-### 12.5 Symbolic AI vs. Learning-Based AI
+### 11.5 Symbolic AI vs. Learning-Based AI
 Turing anticipated adaptive intelligence mechanisms.
 
 McCarthy emphasized symbolic logic systems.
@@ -198,11 +200,11 @@ Modern AI integrates both paradigms:
 - Deep Learning (closer to Turing’s adaptive vision)
 - Knowledge Graphs and Logical Systems (closer to McCarthy’s symbolic AI)
 
-### 12.6 Long-Term Influence Comparison
+### 11.6 Long-Term Influence Comparison
 
 ![WhatsApp Image 2026-02-18 at 10 45 50 AM](https://github.com/user-attachments/assets/48620d92-6f59-4ef4-b766-4a2c0c64a1a9)
 
-### 12.7 Critical Evaluation
+### 11.7 Critical Evaluation
 Turing established the computational ontology within which AI operates. Without his theory of universal computation, programmable intelligence would lack formal legitimacy.
 
 McCarthy operationalized AI as a scientific discipline by institutionalizing research, formalizing symbolic reasoning, and developing programming infrastructure.
@@ -213,7 +215,7 @@ Thus:
 
 Their contributions are complementary and collectively indispensable.
 
-## 13. Conclusion
+## 12. Conclusion
 Alan Turing’s contributions represent the intellectual genesis of Artificial Intelligence. By mathematically defining computation, establishing algorithmic limits, proposing behavioral evaluation criteria, and anticipating adaptive learning systems, he constructed the conceptual superstructure upon which AI is built.
 
 His theoretical insights remain embedded in every computational system. Modern AI — whether symbolic reasoning engines or large-scale neural networks — operates within the universal computational paradigm he conceptualized.
