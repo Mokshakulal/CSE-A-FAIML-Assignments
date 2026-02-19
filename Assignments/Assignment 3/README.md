@@ -52,7 +52,9 @@ When we collect salary data from hundreds or thousands of employees, the distrib
 
 The Probability Density Function (PDF) of a normal distribution is:
 
-​f(x) = 1 / (σ√(2π)) e^(-(x − μ)² / (2σ²))
+$$
+f(x) = \frac{1}{\sigma \sqrt{2 \pi}} \, e^{-\frac{(x - \mu)^2}{2 \sigma^2}}
+$$
 
 Where:
 - x = random variable
@@ -91,7 +93,9 @@ The curve has a bell shape where:
 
 The total probability under the curve equals 1:
 
-∫₋∞^∞ f(x) dx = 1
+$$
+\int_{-\infty}^{\infty} f(x) \, dx = 1
+$$
 
 This represents 100% probability.
 
@@ -103,13 +107,17 @@ Salary is treated as a continuous variable because it can take any real value wi
 
 ### 6.1 Variance (σ²)
 
-σ² = E[(X − μ)²]
+$$
+\sigma^2 = \mathbb{E}[(X - \mu)^2]
+$$
 
 Variance measures the spread of salary values from the mean.
 
 ### 6.2 Standard Deviation (σ)
 
-#### σ = √(σ^2)​
+$$
+\sigma = \sqrt{\sigma^2}
+$$
 
 Standard deviation tells us how much salaries typically deviate from ₹50,000.
 
@@ -122,7 +130,9 @@ The Empirical Rule applies only to normal distributions.
 
 ### 7.1 Within ±1σ (68%)
 
-μ−σ to μ+σ
+$$
+\mu - \sigma \text{ to } \mu + \sigma
+$$
 
 ₹42,000 to ₹58,000
 
@@ -154,8 +164,12 @@ Figure 1 shows the bell-shaped normal distribution curve of IT employees' monthl
 
 To standardize the distribution, we use:
 
-Z = (X - μ) / σ​
 
+$$
+Z = \frac{X - \mu}{\sigma}
+$$
+
+​
 Where:
 
 - Z = Standard score
@@ -166,7 +180,9 @@ Example:
 
 If salary = ₹66,000:
 
-   Z = (80000 - 60000) / 10000 = 2
+$$
+Z = \frac{X - \mu}{\sigma} = \frac{80000 - 60000}{10000} = 2
+$$
 
 This means the salary is 2 standard deviations above the mean.
 
