@@ -276,10 +276,10 @@ Interpretation:
 
 | Bias Level | Variance Level | Result |
 |------------|----------------|--------|
-| High       | Low            | Underfitting ❌ |
-| Low        | High           | Overfitting ❌ |
-| High       | High           | Worst Case ❌ |
-| Low        | Low            | Best Fit ✅ |
+| High       | Low            | Underfitting  |
+| Low        | High           | Overfitting  |
+| High       | High           | Worst Case  |
+| Low        | Low            | Best Fit  |
 
 #### Correct Answer:
 ##### Low Bias and Low Variance
