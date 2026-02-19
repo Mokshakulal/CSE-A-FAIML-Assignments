@@ -39,7 +39,11 @@ Bias measures how far the model's expected predictions are from the true functio
 
 Mathematically:​
 
-   #### Bias(x) = E[f̂(x)] - f(x)
+
+$$
+\text{Bias}(x) = \mathbb{E}[\hat{f}(x)] - f(x)
+$$
+
 
 Where:
 
@@ -83,7 +87,10 @@ A high-bias model:
 
 Using Linear Regression to model highly non-linear data such as:
 
-#### y = x³ + 2x² + 5
+$$
+y = x^3 + 2x^2 + 5
+$$
+
 
 The linear model cannot capture curvature → high bias.
 
@@ -108,7 +115,9 @@ It measures the sensitivity of the model to fluctuations in training data.
 
 Mathematically:
 
-#### Variance(x)=Var(f̂(x))
+$$
+\text{Variance}(x) = \text{Var}(\hat{f}(x))
+$$
 
 Variance reflects how much the learned function would differ if we trained it on another dataset drawn from the same distribution.
 
@@ -215,8 +224,10 @@ Overfitting = Low Bias + High Variance
 
 The total expected squared error at a point x can be decomposed as:
 
-   #### Total Error=Bias²+Variance+Irreducible Error
-  
+$$
+\text{Total Error} = \text{Bias}^2 + \text{Variance} + \text{Irreducible Error}
+$$
+
 Where:
 
 #### 1. Bias²
