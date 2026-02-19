@@ -4,17 +4,17 @@
 
 In Machine Learning, the performance of a predictive model depends primarily on two fundamental sources of error:
 
-- #### Bias
+- Bias
 
-- #### Variance
+- Variance
 
 These two components determine how well a model learns patterns from training data and how effectively it generalizes to unseen data.
 
 A model that fails to properly balance bias and variance may suffer from:
 
-- #### Underfitting (model too simple)
+- Underfitting (model too simple)
 
-- #### Overfitting (model too complex)
+- Overfitting (model too complex)
 
 The process of balancing these two errors is known as the Bias–Variance Tradeoff, which is one of the most important theoretical foundations in supervised learning.
 
